@@ -1,0 +1,30 @@
+Vertrieb wurde angelegt
+Anträge wurden angelegt
+Bilanz wurde angelegt
+Kapitalanlagen wurden angelegt
+Das Risiko in der Kapitalanlage in den Renten wurde festgelegt: normal
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2020', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2020', 'anzahl_renten': 1, 'anzahl_bu': 2, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2020', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2020', 'anzahl_renten': 1, 'anzahl_bu': 2, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2021', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2021', 'anzahl_renten': 3, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2021', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2021', 'anzahl_renten': 3, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2022', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2022', 'anzahl_renten': 30, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2022', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2022', 'anzahl_renten': 30, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2023', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2023', 'anzahl_renten': 30, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2023', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2023', 'anzahl_renten': 30, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2024', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2024', 'anzahl_renten': 30, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2024', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2024', 'anzahl_renten': 30, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2025', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2025', 'anzahl_renten': 30, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2025', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2025', 'anzahl_renten': 30, 'anzahl_bu': 5, 'laufzeit_renten': 4, 'laufzeit_bu': 5}
+ENDE erreicht!!!

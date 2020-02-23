@@ -1,0 +1,339 @@
+jahr;rl;avbg;name;wert
+2019;bilanz;999;eigenkapital_ende;100000
+2019;bilanz;999;kasse_ende;100000
+2020;bilanz;999;eigenkapital_anfang;100000.0
+2020;bilanz;999;kasse_anfang;100000.0
+2020;bilanz; AV10;bil_derue1_ende;484.32
+2020;bilanz; BG113;bil_derue1_ende;484.32
+2020;bilanz;999;bil_derue1_ende;968.64
+2020;bilanz; AV10;bil_derue2_ende;484.32
+2020;bilanz; BG113;bil_derue2_ende;484.32
+2020;bilanz;999;bil_derue2_ende;968.64
+2020;bilanz; AV10;bil_derue3_ende;532.752
+2020;bilanz; BG113;bil_derue3_ende;532.752
+2020;bilanz;999;bil_derue3_ende;1065.504
+2020;bilanz; AV10;bil_derue5_ende;678.048
+2020;bilanz; BG113;bil_derue5_ende;678.048
+2020;bilanz;999;bil_derue5_ende;1356.096
+2020;bilanz; AV10;bil_derue7_ende;678.048
+2020;bilanz; BG113;bil_derue7_ende;678.048
+2020;bilanz;999;bil_derue7_ende;1356.096
+2020;bilanz; AV10;bil_bio_nachreservierung_ende;48.431999999999995
+2020;bilanz; BG113;bil_bio_nachreservierung_ende;48.431999999999995
+2020;bilanz;999;bil_bio_nachreservierung_ende;96.864
+2020;bilanz; AV10;bil_zzr_nachreservierung_ende;145.296
+2020;bilanz; BG113;bil_zzr_nachreservierung_ende;145.296
+2020;bilanz;999;bil_zzr_nachreservierung_ende;290.592
+2020;bilanz; AV10;bil_unisex_nachreservierung_ende;0.0
+2020;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
+2020;bilanz;999;bil_unisex_nachreservierung_ende;0.0
+2020;guv; AV10;bil_gebuchter_beitrag;600.0
+2020;guv; BG113;bil_gebuchter_beitrag;600.0
+2020;guv;999;bil_gebuchter_beitrag;1200.0
+2020;guv; AV10;bil_verdienter_beitrag_nw216;600.0
+2020;guv; BG113;bil_verdienter_beitrag_nw216;600.0
+2020;guv;999;bil_verdienter_beitrag_nw216;1200.0
+2020;guv; AV10;bil_derue7_veraenderung;678.048
+2020;guv; BG113;bil_derue7_veraenderung;678.048
+2020;guv;999;jahresueberschuss;1200.0
+2020;bilanz;999;eigenkapital_ende;101200.0
+2021;bilanz;999;eigenkapital_anfang;101200.0
+2021;bilanz;999;kasse_anfang;0.0
+2021;bilanz; AV10;bil_derue1_anfang;484.32
+2021;bilanz; BG113;bil_derue1_anfang;484.32
+2021;bilanz;999;bil_derue1_anfang;968.64
+2021;bilanz; AV10;bil_derue2_anfang;484.32
+2021;bilanz; BG113;bil_derue2_anfang;484.32
+2021;bilanz;999;bil_derue2_anfang;968.64
+2021;bilanz; AV10;bil_derue3_anfang;532.752
+2021;bilanz; BG113;bil_derue3_anfang;532.752
+2021;bilanz;999;bil_derue3_anfang;1065.504
+2021;bilanz; AV10;bil_derue5_anfang;678.048
+2021;bilanz; BG113;bil_derue5_anfang;678.048
+2021;bilanz;999;bil_derue5_anfang;1356.096
+2021;bilanz; AV10;bil_derue7_anfang;678.048
+2021;bilanz; BG113;bil_derue7_anfang;678.048
+2021;bilanz;999;bil_derue7_anfang;1356.096
+2021;bilanz; AV10;bil_bio_nachreservierung_anfang;48.431999999999995
+2021;bilanz; BG113;bil_bio_nachreservierung_anfang;48.431999999999995
+2021;bilanz;999;bil_bio_nachreservierung_anfang;96.864
+2021;bilanz; AV10;bil_zzr_nachreservierung_anfang;145.296
+2021;bilanz; BG113;bil_zzr_nachreservierung_anfang;145.296
+2021;bilanz;999;bil_zzr_nachreservierung_anfang;290.592
+2021;bilanz; AV10;bil_unisex_nachreservierung_anfang;0.0
+2021;bilanz; BG113;bil_unisex_nachreservierung_anfang;0.0
+2021;bilanz;999;bil_unisex_nachreservierung_anfang;0.0
+2021;bilanz; AV10;bil_derue1_ende;1941.63888
+2021;bilanz; BG113;bil_derue1_ende;1941.63888
+2021;bilanz;999;bil_derue1_ende;3883.27776
+2021;bilanz; AV10;bil_derue2_ende;1941.63888
+2021;bilanz; BG113;bil_derue2_ende;1941.63888
+2021;bilanz;999;bil_derue2_ende;3883.27776
+2021;bilanz; AV10;bil_derue3_ende;2135.802768
+2021;bilanz; BG113;bil_derue3_ende;2135.802768
+2021;bilanz;999;bil_derue3_ende;4271.605536
+2021;bilanz; AV10;bil_derue5_ende;2718.2944319999997
+2021;bilanz; BG113;bil_derue5_ende;2718.2944319999997
+2021;bilanz;999;bil_derue5_ende;5436.588864
+2021;bilanz; AV10;bil_derue7_ende;2718.2944319999997
+2021;bilanz; BG113;bil_derue7_ende;2718.2944319999997
+2021;bilanz;999;bil_derue7_ende;5436.588864
+2021;bilanz; AV10;bil_bio_nachreservierung_ende;194.163888
+2021;bilanz; BG113;bil_bio_nachreservierung_ende;194.163888
+2021;bilanz;999;bil_bio_nachreservierung_ende;388.327776
+2021;bilanz; AV10;bil_zzr_nachreservierung_ende;582.4916639999999
+2021;bilanz; BG113;bil_zzr_nachreservierung_ende;582.4916639999999
+2021;bilanz;999;bil_zzr_nachreservierung_ende;1164.9833279999998
+2021;bilanz; AV10;bil_unisex_nachreservierung_ende;0.0
+2021;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
+2021;bilanz;999;bil_unisex_nachreservierung_ende;0.0
+2021;guv; AV10;bil_gebuchter_beitrag;1800.0
+2021;guv; BG113;bil_gebuchter_beitrag;1800.0
+2021;guv;999;bil_gebuchter_beitrag;3600.0
+2021;guv; AV10;bil_verdienter_beitrag_nw216;1800.0
+2021;guv; BG113;bil_verdienter_beitrag_nw216;1800.0
+2021;guv;999;bil_verdienter_beitrag_nw216;3600.0
+2021;guv; AV10;bil_derue7_veraenderung;2040.2464319999997
+2021;guv; BG113;bil_derue7_veraenderung;2040.2464319999997
+2021;guv;999;jahresueberschuss;3600.0
+2021;bilanz;999;eigenkapital_ende;104800.0
+2022;bilanz;999;eigenkapital_anfang;104800.0
+2022;bilanz;999;kasse_anfang;0.0
+2022;bilanz; AV10;bil_derue1_anfang;1941.63888
+2022;bilanz; BG113;bil_derue1_anfang;1941.63888
+2022;bilanz;999;bil_derue1_anfang;3883.27776
+2022;bilanz; AV10;bil_derue2_anfang;1941.63888
+2022;bilanz; BG113;bil_derue2_anfang;1941.63888
+2022;bilanz;999;bil_derue2_anfang;3883.27776
+2022;bilanz; AV10;bil_derue3_anfang;2135.802768
+2022;bilanz; BG113;bil_derue3_anfang;2135.802768
+2022;bilanz;999;bil_derue3_anfang;4271.605536
+2022;bilanz; AV10;bil_derue5_anfang;2718.2944319999997
+2022;bilanz; BG113;bil_derue5_anfang;2718.2944319999997
+2022;bilanz;999;bil_derue5_anfang;5436.588864
+2022;bilanz; AV10;bil_derue7_anfang;2718.2944319999997
+2022;bilanz; BG113;bil_derue7_anfang;2718.2944319999997
+2022;bilanz;999;bil_derue7_anfang;5436.588864
+2022;bilanz; AV10;bil_bio_nachreservierung_anfang;194.163888
+2022;bilanz; BG113;bil_bio_nachreservierung_anfang;194.163888
+2022;bilanz;999;bil_bio_nachreservierung_anfang;388.327776
+2022;bilanz; AV10;bil_zzr_nachreservierung_anfang;582.4916639999999
+2022;bilanz; BG113;bil_zzr_nachreservierung_anfang;582.4916639999999
+2022;bilanz;999;bil_zzr_nachreservierung_anfang;1164.9833279999998
+2022;bilanz; AV10;bil_unisex_nachreservierung_anfang;0.0
+2022;bilanz; BG113;bil_unisex_nachreservierung_anfang;0.0
+2022;bilanz;999;bil_unisex_nachreservierung_anfang;0.0
+2022;bilanz; AV10;bil_derue1_ende;4380.71362992
+2022;bilanz; BG113;bil_derue1_ende;4380.71362992
+2022;bilanz;999;bil_derue1_ende;8761.42725984
+2022;bilanz; AV10;bil_derue2_ende;4380.71362992
+2022;bilanz; BG113;bil_derue2_ende;4380.71362992
+2022;bilanz;999;bil_derue2_ende;8761.42725984
+2022;bilanz; AV10;bil_derue3_ende;4818.784992912
+2022;bilanz; BG113;bil_derue3_ende;4818.784992912
+2022;bilanz;999;bil_derue3_ende;9637.569985824
+2022;bilanz; AV10;bil_derue5_ende;6132.999081887999
+2022;bilanz; BG113;bil_derue5_ende;6132.999081887999
+2022;bilanz;999;bil_derue5_ende;12265.998163776
+2022;bilanz; AV10;bil_derue7_ende;6132.999081887999
+2022;bilanz; BG113;bil_derue7_ende;6132.999081887999
+2022;bilanz;999;bil_derue7_ende;12265.998163776
+2022;bilanz; AV10;bil_bio_nachreservierung_ende;438.071362992
+2022;bilanz; BG113;bil_bio_nachreservierung_ende;438.071362992
+2022;bilanz;999;bil_bio_nachreservierung_ende;876.142725984
+2022;bilanz; AV10;bil_zzr_nachreservierung_ende;1314.2140889759996
+2022;bilanz; BG113;bil_zzr_nachreservierung_ende;1314.2140889759996
+2022;bilanz;999;bil_zzr_nachreservierung_ende;2628.428177951999
+2022;bilanz; AV10;bil_unisex_nachreservierung_ende;0.0
+2022;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
+2022;bilanz;999;bil_unisex_nachreservierung_ende;0.0
+2022;guv; AV10;bil_gebuchter_beitrag;3000.0
+2022;guv; BG113;bil_gebuchter_beitrag;3000.0
+2022;guv;999;bil_gebuchter_beitrag;6000.0
+2022;guv; AV10;bil_verdienter_beitrag_nw216;3000.0
+2022;guv; BG113;bil_verdienter_beitrag_nw216;3000.0
+2022;guv;999;bil_verdienter_beitrag_nw216;6000.0
+2022;guv; AV10;bil_derue7_veraenderung;3414.704649887999
+2022;guv; BG113;bil_derue7_veraenderung;3414.704649887999
+2022;guv;999;jahresueberschuss;6000.0
+2022;bilanz;999;eigenkapital_ende;110800.0
+2023;bilanz;999;eigenkapital_anfang;110800.0
+2023;bilanz;999;kasse_anfang;0.0
+2023;bilanz; AV10;bil_derue1_anfang;4380.71362992
+2023;bilanz; BG113;bil_derue1_anfang;4380.71362992
+2023;bilanz;999;bil_derue1_anfang;8761.42725984
+2023;bilanz; AV10;bil_derue2_anfang;4380.71362992
+2023;bilanz; BG113;bil_derue2_anfang;4380.71362992
+2023;bilanz;999;bil_derue2_anfang;8761.42725984
+2023;bilanz; AV10;bil_derue3_anfang;4818.784992912
+2023;bilanz; BG113;bil_derue3_anfang;4818.784992912
+2023;bilanz;999;bil_derue3_anfang;9637.569985824
+2023;bilanz; AV10;bil_derue5_anfang;6132.999081887999
+2023;bilanz; BG113;bil_derue5_anfang;6132.999081887999
+2023;bilanz;999;bil_derue5_anfang;12265.998163776
+2023;bilanz; AV10;bil_derue7_anfang;6132.999081887999
+2023;bilanz; BG113;bil_derue7_anfang;6132.999081887999
+2023;bilanz;999;bil_derue7_anfang;12265.998163776
+2023;bilanz; AV10;bil_bio_nachreservierung_anfang;438.071362992
+2023;bilanz; BG113;bil_bio_nachreservierung_anfang;438.071362992
+2023;bilanz;999;bil_bio_nachreservierung_anfang;876.142725984
+2023;bilanz; AV10;bil_zzr_nachreservierung_anfang;1314.2140889759996
+2023;bilanz; BG113;bil_zzr_nachreservierung_anfang;1314.2140889759996
+2023;bilanz;999;bil_zzr_nachreservierung_anfang;2628.428177951999
+2023;bilanz; AV10;bil_unisex_nachreservierung_anfang;0.0
+2023;bilanz; BG113;bil_unisex_nachreservierung_anfang;0.0
+2023;bilanz;999;bil_unisex_nachreservierung_anfang;0.0
+2023;bilanz; AV10;bil_derue1_ende;7810.38005258928
+2023;bilanz; BG113;bil_derue1_ende;7810.38005258928
+2023;bilanz;999;bil_derue1_ende;15620.76010517856
+2023;bilanz; AV10;bil_derue2_ende;7810.38005258928
+2023;bilanz; BG113;bil_derue2_ende;7810.38005258928
+2023;bilanz;999;bil_derue2_ende;15620.76010517856
+2023;bilanz; AV10;bil_derue3_ende;8591.418057848208
+2023;bilanz; BG113;bil_derue3_ende;8591.418057848208
+2023;bilanz;999;bil_derue3_ende;17182.836115696417
+2023;bilanz; AV10;bil_derue5_ende;10934.53207362499
+2023;bilanz; BG113;bil_derue5_ende;10934.53207362499
+2023;bilanz;999;bil_derue5_ende;21869.06414724998
+2023;bilanz; AV10;bil_derue7_ende;10934.53207362499
+2023;bilanz; BG113;bil_derue7_ende;10934.53207362499
+2023;bilanz;999;bil_derue7_ende;21869.06414724998
+2023;bilanz; AV10;bil_bio_nachreservierung_ende;781.038005258928
+2023;bilanz; BG113;bil_bio_nachreservierung_ende;781.038005258928
+2023;bilanz;999;bil_bio_nachreservierung_ende;1562.076010517856
+2023;bilanz; AV10;bil_zzr_nachreservierung_ende;2343.114015776783
+2023;bilanz; BG113;bil_zzr_nachreservierung_ende;2343.114015776783
+2023;bilanz;999;bil_zzr_nachreservierung_ende;4686.228031553566
+2023;bilanz; AV10;bil_unisex_nachreservierung_ende;0.0
+2023;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
+2023;bilanz;999;bil_unisex_nachreservierung_ende;0.0
+2023;guv; AV10;bil_gebuchter_beitrag;4200.0
+2023;guv; BG113;bil_gebuchter_beitrag;4200.0
+2023;guv;999;bil_gebuchter_beitrag;8400.0
+2023;guv; AV10;bil_verdienter_beitrag_nw216;4200.0
+2023;guv; BG113;bil_verdienter_beitrag_nw216;4200.0
+2023;guv;999;bil_verdienter_beitrag_nw216;8400.0
+2023;guv; AV10;bil_derue7_veraenderung;4801.532991736992
+2023;guv; BG113;bil_derue7_veraenderung;4801.532991736992
+2023;guv;999;jahresueberschuss;8400.0
+2023;bilanz;999;eigenkapital_ende;119200.0
+2024;bilanz;999;eigenkapital_anfang;119200.0
+2024;bilanz;999;kasse_anfang;0.0
+2024;bilanz; AV10;bil_derue1_anfang;7810.38005258928
+2024;bilanz; BG113;bil_derue1_anfang;7810.38005258928
+2024;bilanz;999;bil_derue1_anfang;15620.76010517856
+2024;bilanz; AV10;bil_derue2_anfang;7810.38005258928
+2024;bilanz; BG113;bil_derue2_anfang;7810.38005258928
+2024;bilanz;999;bil_derue2_anfang;15620.76010517856
+2024;bilanz; AV10;bil_derue3_anfang;8591.418057848208
+2024;bilanz; BG113;bil_derue3_anfang;8591.418057848208
+2024;bilanz;999;bil_derue3_anfang;17182.836115696417
+2024;bilanz; AV10;bil_derue5_anfang;10934.53207362499
+2024;bilanz; BG113;bil_derue5_anfang;10934.53207362499
+2024;bilanz;999;bil_derue5_anfang;21869.06414724998
+2024;bilanz; AV10;bil_derue7_anfang;10934.53207362499
+2024;bilanz; BG113;bil_derue7_anfang;10934.53207362499
+2024;bilanz;999;bil_derue7_anfang;21869.06414724998
+2024;bilanz; AV10;bil_bio_nachreservierung_anfang;781.038005258928
+2024;bilanz; BG113;bil_bio_nachreservierung_anfang;781.038005258928
+2024;bilanz;999;bil_bio_nachreservierung_anfang;1562.076010517856
+2024;bilanz; AV10;bil_zzr_nachreservierung_anfang;2343.114015776783
+2024;bilanz; BG113;bil_zzr_nachreservierung_anfang;2343.114015776783
+2024;bilanz;999;bil_zzr_nachreservierung_anfang;4686.228031553566
+2024;bilanz; AV10;bil_unisex_nachreservierung_anfang;0.0
+2024;bilanz; BG113;bil_unisex_nachreservierung_anfang;0.0
+2024;bilanz;999;bil_unisex_nachreservierung_anfang;0.0
+2024;bilanz; AV10;bil_derue1_ende;12239.553473062584
+2024;bilanz; BG113;bil_derue1_ende;12239.553473062584
+2024;bilanz;999;bil_derue1_ende;24479.106946125165
+2024;bilanz; AV10;bil_derue2_ende;12239.553473062584
+2024;bilanz; BG113;bil_derue2_ende;12239.553473062584
+2024;bilanz;999;bil_derue2_ende;24479.106946125165
+2024;bilanz; AV10;bil_derue3_ende;13463.508820368841
+2024;bilanz; BG113;bil_derue3_ende;13463.508820368841
+2024;bilanz;999;bil_derue3_ende;26927.017640737682
+2024;bilanz; AV10;bil_derue5_ende;17135.374862287612
+2024;bilanz; BG113;bil_derue5_ende;17135.374862287612
+2024;bilanz;999;bil_derue5_ende;34270.749724575224
+2024;bilanz; AV10;bil_derue7_ende;17135.374862287612
+2024;bilanz; BG113;bil_derue7_ende;17135.374862287612
+2024;bilanz;999;bil_derue7_ende;34270.749724575224
+2024;bilanz; AV10;bil_bio_nachreservierung_ende;1223.9553473062583
+2024;bilanz; BG113;bil_bio_nachreservierung_ende;1223.9553473062583
+2024;bilanz;999;bil_bio_nachreservierung_ende;2447.910694612517
+2024;bilanz; AV10;bil_zzr_nachreservierung_ende;3671.866041918774
+2024;bilanz; BG113;bil_zzr_nachreservierung_ende;3671.866041918774
+2024;bilanz;999;bil_zzr_nachreservierung_ende;7343.732083837547
+2024;bilanz; AV10;bil_unisex_nachreservierung_ende;0.0
+2024;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
+2024;bilanz;999;bil_unisex_nachreservierung_ende;0.0
+2024;guv; AV10;bil_gebuchter_beitrag;5400.0
+2024;guv; BG113;bil_gebuchter_beitrag;5400.0
+2024;guv;999;bil_gebuchter_beitrag;10800.0
+2024;guv; AV10;bil_verdienter_beitrag_nw216;5400.0
+2024;guv; BG113;bil_verdienter_beitrag_nw216;5400.0
+2024;guv;999;bil_verdienter_beitrag_nw216;10800.0
+2024;guv; AV10;bil_derue7_veraenderung;6200.842788662621
+2024;guv; BG113;bil_derue7_veraenderung;6200.842788662621
+2024;guv;999;jahresueberschuss;10800.0
+2024;bilanz;999;eigenkapital_ende;130000.0
+2025;bilanz;999;eigenkapital_anfang;130000.0
+2025;bilanz;999;kasse_anfang;0.0
+2025;bilanz; AV10;bil_derue1_anfang;12239.553473062584
+2025;bilanz; BG113;bil_derue1_anfang;12239.553473062584
+2025;bilanz;999;bil_derue1_anfang;24479.106946125165
+2025;bilanz; AV10;bil_derue2_anfang;12239.553473062584
+2025;bilanz; BG113;bil_derue2_anfang;12239.553473062584
+2025;bilanz;999;bil_derue2_anfang;24479.106946125165
+2025;bilanz; AV10;bil_derue3_anfang;13463.508820368841
+2025;bilanz; BG113;bil_derue3_anfang;13463.508820368841
+2025;bilanz;999;bil_derue3_anfang;26927.017640737682
+2025;bilanz; AV10;bil_derue5_anfang;17135.374862287612
+2025;bilanz; BG113;bil_derue5_anfang;17135.374862287612
+2025;bilanz;999;bil_derue5_anfang;34270.749724575224
+2025;bilanz; AV10;bil_derue7_anfang;17135.374862287612
+2025;bilanz; BG113;bil_derue7_anfang;17135.374862287612
+2025;bilanz;999;bil_derue7_anfang;34270.749724575224
+2025;bilanz; AV10;bil_bio_nachreservierung_anfang;1223.9553473062583
+2025;bilanz; BG113;bil_bio_nachreservierung_anfang;1223.9553473062583
+2025;bilanz;999;bil_bio_nachreservierung_anfang;2447.910694612517
+2025;bilanz; AV10;bil_zzr_nachreservierung_anfang;3671.866041918774
+2025;bilanz; BG113;bil_zzr_nachreservierung_anfang;3671.866041918774
+2025;bilanz;999;bil_zzr_nachreservierung_anfang;7343.732083837547
+2025;bilanz; AV10;bil_unisex_nachreservierung_anfang;0.0
+2025;bilanz; BG113;bil_unisex_nachreservierung_anfang;0.0
+2025;bilanz;999;bil_unisex_nachreservierung_anfang;0.0
+2025;bilanz; AV10;bil_derue1_ende;17677.229454320146
+2025;bilanz; BG113;bil_derue1_ende;17677.229454320146
+2025;bilanz;999;bil_derue1_ende;35354.45890864029
+2025;bilanz; AV10;bil_derue2_ende;17677.229454320146
+2025;bilanz; BG113;bil_derue2_ende;17677.229454320146
+2025;bilanz;999;bil_derue2_ende;35354.45890864029
+2025;bilanz; AV10;bil_derue3_ende;19444.95239975216
+2025;bilanz; BG113;bil_derue3_ende;19444.95239975216
+2025;bilanz;999;bil_derue3_ende;38889.904799504315
+2025;bilanz; AV10;bil_derue5_ende;24748.1212360482
+2025;bilanz; BG113;bil_derue5_ende;24748.1212360482
+2025;bilanz;999;bil_derue5_ende;49496.2424720964
+2025;bilanz; AV10;bil_derue7_ende;24748.1212360482
+2025;bilanz; BG113;bil_derue7_ende;24748.1212360482
+2025;bilanz;999;bil_derue7_ende;49496.2424720964
+2025;bilanz; AV10;bil_bio_nachreservierung_ende;1767.7229454320147
+2025;bilanz; BG113;bil_bio_nachreservierung_ende;1767.7229454320147
+2025;bilanz;999;bil_bio_nachreservierung_ende;3535.4458908640295
+2025;bilanz; AV10;bil_zzr_nachreservierung_ende;5303.168836296043
+2025;bilanz; BG113;bil_zzr_nachreservierung_ende;5303.168836296043
+2025;bilanz;999;bil_zzr_nachreservierung_ende;10606.337672592086
+2025;bilanz; AV10;bil_unisex_nachreservierung_ende;0.0
+2025;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
+2025;bilanz;999;bil_unisex_nachreservierung_ende;0.0
+2025;guv; AV10;bil_gebuchter_beitrag;6600.0
+2025;guv; BG113;bil_gebuchter_beitrag;6600.0
+2025;guv;999;bil_gebuchter_beitrag;13200.0
+2025;guv; AV10;bil_verdienter_beitrag_nw216;6600.0
+2025;guv; BG113;bil_verdienter_beitrag_nw216;6600.0
+2025;guv;999;bil_verdienter_beitrag_nw216;13200.0
+2025;guv; AV10;bil_derue7_veraenderung;7612.746373760587
+2025;guv; BG113;bil_derue7_veraenderung;7612.746373760587
+2025;guv;999;jahresueberschuss;13200.0
+2025;bilanz;999;eigenkapital_ende;143200.0
