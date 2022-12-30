@@ -1,9 +1,9 @@
 key;wert
 ka_renten_sa;high_risky
-beitragMarktRente;4444
+beitragMarktRente;1200
 provisionMarktRente;45
-anzahlRente;200
-beitragMarktBu;555
-provisionMarktBu;66
-anzahlBu;100
+anzahlRente;1000
+beitragMarktBu;500
+provisionMarktBu;55
+anzahlBu;10000
 streuungImNG;sehrgross
