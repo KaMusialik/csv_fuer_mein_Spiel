@@ -17,7 +17,7 @@
    <property name="geometry">
     <rect>
      <x>9</x>
-     <y>153</y>
+     <y>170</y>
      <width>952</width>
      <height>15</height>
     </rect>
@@ -29,14 +29,14 @@
     </font>
    </property>
    <property name="text">
-    <string>Markdaten bzw. Eingaben zur Neugeschäftseinschätzung:</string>
+    <string>Markdaten zur Neugeschäftseinschätzung:</string>
    </property>
   </widget>
   <widget class="QFrame" name="frame">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>190</y>
+     <x>20</x>
+     <y>200</y>
      <width>952</width>
      <height>211</height>
     </rect>
@@ -62,7 +62,7 @@
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>320</x>
+      <x>360</x>
       <y>10</y>
       <width>57</width>
       <height>15</height>
@@ -81,7 +81,7 @@
    <widget class="QLabel" name="label_4">
     <property name="geometry">
      <rect>
-      <x>460</x>
+      <x>500</x>
       <y>10</y>
       <width>57</width>
       <height>15</height>
@@ -97,51 +97,12 @@
      <string>BU</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label_5">
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>50</y>
-      <width>201</width>
-      <height>16</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="text">
-     <string>Durchschnittjahresbeitrag:</string>
-    </property>
-   </widget>
-   <widget class="QLineEdit" name="lineEdit_BeitragRente">
-    <property name="geometry">
-     <rect>
-      <x>284</x>
-      <y>45</y>
-      <width>113</width>
-      <height>23</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QLineEdit" name="lineEdit_BeitragBu">
-    <property name="geometry">
-     <rect>
-      <x>421</x>
-      <y>43</y>
-      <width>113</width>
-      <height>23</height>
-     </rect>
-    </property>
-   </widget>
    <widget class="QLabel" name="label_6">
     <property name="geometry">
      <rect>
-      <x>30</x>
+      <x>10</x>
       <y>80</y>
-      <width>201</width>
+      <width>261</width>
       <height>16</height>
      </rect>
     </property>
@@ -158,7 +119,7 @@
    <widget class="QLineEdit" name="lineEdit_ProvisionRente">
     <property name="geometry">
      <rect>
-      <x>283</x>
+      <x>323</x>
       <y>78</y>
       <width>113</width>
       <height>23</height>
@@ -168,7 +129,7 @@
    <widget class="QLineEdit" name="lineEdit_ProvisionBu">
     <property name="geometry">
      <rect>
-      <x>420</x>
+      <x>460</x>
       <y>80</y>
       <width>113</width>
       <height>23</height>
@@ -178,9 +139,9 @@
    <widget class="QLabel" name="label_7">
     <property name="geometry">
      <rect>
-      <x>30</x>
+      <x>10</x>
       <y>110</y>
-      <width>201</width>
+      <width>301</width>
       <height>16</height>
      </rect>
     </property>
@@ -197,7 +158,7 @@
    <widget class="QLineEdit" name="lineEdit_AnzahlRente">
     <property name="geometry">
      <rect>
-      <x>283</x>
+      <x>323</x>
       <y>108</y>
       <width>113</width>
       <height>23</height>
@@ -207,7 +168,7 @@
    <widget class="QLineEdit" name="lineEdit_AnzahlBu">
     <property name="geometry">
      <rect>
-      <x>420</x>
+      <x>460</x>
       <y>110</y>
       <width>113</width>
       <height>23</height>
@@ -269,9 +230,6 @@
    <zorder>groupBox</zorder>
    <zorder>label_3</zorder>
    <zorder>label_4</zorder>
-   <zorder>label_5</zorder>
-   <zorder>lineEdit_BeitragRente</zorder>
-   <zorder>lineEdit_BeitragBu</zorder>
    <zorder>label_6</zorder>
    <zorder>lineEdit_ProvisionRente</zorder>
    <zorder>lineEdit_ProvisionBu</zorder>
