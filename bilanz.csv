@@ -3,67 +3,37 @@ jahr;rl;avbg;name;wert
 2019;bilanz;999;kasse_ende;100000
 2020;bilanz;999;eigenkapital_anfang;100000.0
 2020;bilanz;999;kasse_anfang;100000.0
-2020;bilanz; BG113;bil_derue1_ende;1362748.3092143754
-2020;bilanz;999;bil_derue1_ende;1362748.3092143754
-2020;bilanz; BG113;bil_derue2_ende;1362748.3092143754
-2020;bilanz;999;bil_derue2_ende;1362748.3092143754
-2020;bilanz; BG113;bil_derue3_ende;1499023.140135813
-2020;bilanz;999;bil_derue3_ende;1499023.140135813
-2020;bilanz; BG113;bil_derue5_ende;1907847.6329001256
-2020;bilanz;999;bil_derue5_ende;1907847.6329001256
-2020;bilanz; BG113;bil_derue7_ende;1907847.6329001256
-2020;bilanz;999;bil_derue7_ende;1907847.6329001256
-2020;bilanz; BG113;bil_bio_nachreservierung_ende;136274.83092143756
-2020;bilanz;999;bil_bio_nachreservierung_ende;136274.83092143756
-2020;bilanz; BG113;bil_zzr_nachreservierung_ende;408824.4927643126
-2020;bilanz;999;bil_zzr_nachreservierung_ende;408824.4927643126
+2020;bilanz; AV10;bil_derue1_ende;181257.67968960412
+2020;bilanz; BG113;bil_derue1_ende;991040.621808004
+2020;bilanz;999;bil_derue1_ende;1172298.301497608
+2020;bilanz; AV10;bil_derue2_ende;181257.67968960412
+2020;bilanz; BG113;bil_derue2_ende;991040.621808004
+2020;bilanz;999;bil_derue2_ende;1172298.301497608
+2020;bilanz; AV10;bil_derue3_ende;199383.44765856455
+2020;bilanz; BG113;bil_derue3_ende;1090144.6839888045
+2020;bilanz;999;bil_derue3_ende;1289528.131647369
+2020;bilanz; AV10;bil_derue5_ende;253760.75156544583
+2020;bilanz; BG113;bil_derue5_ende;1387456.8705312056
+2020;bilanz;999;bil_derue5_ende;1641217.6220966515
+2020;bilanz; AV10;bil_derue7_ende;253760.75156544583
+2020;bilanz; BG113;bil_derue7_ende;1387456.8705312056
+2020;bilanz;999;bil_derue7_ende;1641217.6220966515
+2020;bilanz; AV10;bil_bio_nachreservierung_ende;18125.767968960416
+2020;bilanz; BG113;bil_bio_nachreservierung_ende;99104.0621808004
+2020;bilanz;999;bil_bio_nachreservierung_ende;117229.83014976082
+2020;bilanz; AV10;bil_zzr_nachreservierung_ende;54377.30390688124
+2020;bilanz; BG113;bil_zzr_nachreservierung_ende;297312.1865424012
+2020;bilanz;999;bil_zzr_nachreservierung_ende;351689.49044928246
+2020;bilanz; AV10;bil_unisex_nachreservierung_ende;0.0
 2020;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
 2020;bilanz;999;bil_unisex_nachreservierung_ende;0.0
-2020;guv; BG113;bil_gebuchter_beitrag;1688241.215577769
-2020;guv;999;bil_gebuchter_beitrag;1688241.215577769
-2020;guv; BG113;bil_verdienter_beitrag_nw216;1688241.215577769
-2020;guv;999;bil_verdienter_beitrag_nw216;1688241.215577769
-2020;guv; BG113;bil_derue7_veraenderung;1907847.6329001256
-2020;guv;999;jahresueberschuss;1688241.215577769
-2020;bilanz;999;eigenkapital_ende;1788241.215577769
-2021;bilanz;999;eigenkapital_anfang;1788241.215577769
-2021;bilanz;999;kasse_anfang;0.0
-2021;bilanz; BG113;bil_derue1_anfang;1362748.3092143754
-2021;bilanz;999;bil_derue1_anfang;1362748.3092143754
-2021;bilanz; BG113;bil_derue2_anfang;1362748.3092143754
-2021;bilanz;999;bil_derue2_anfang;1362748.3092143754
-2021;bilanz; BG113;bil_derue3_anfang;1499023.140135813
-2021;bilanz;999;bil_derue3_anfang;1499023.140135813
-2021;bilanz; BG113;bil_derue5_anfang;1907847.6329001256
-2021;bilanz;999;bil_derue5_anfang;1907847.6329001256
-2021;bilanz; BG113;bil_derue7_anfang;1907847.6329001256
-2021;bilanz;999;bil_derue7_anfang;1907847.6329001256
-2021;bilanz; BG113;bil_bio_nachreservierung_anfang;136274.83092143756
-2021;bilanz;999;bil_bio_nachreservierung_anfang;136274.83092143756
-2021;bilanz; BG113;bil_zzr_nachreservierung_anfang;408824.4927643126
-2021;bilanz;999;bil_zzr_nachreservierung_anfang;408824.4927643126
-2021;bilanz; BG113;bil_unisex_nachreservierung_anfang;0.0
-2021;bilanz;999;bil_unisex_nachreservierung_anfang;0.0
-2021;bilanz; BG113;bil_derue1_ende;4831920.944230744
-2021;bilanz;999;bil_derue1_ende;4831920.944230744
-2021;bilanz; BG113;bil_derue2_ende;4831920.944230744
-2021;bilanz;999;bil_derue2_ende;4831920.944230744
-2021;bilanz; BG113;bil_derue3_ende;5315113.038653818
-2021;bilanz;999;bil_derue3_ende;5315113.038653818
-2021;bilanz; BG113;bil_derue5_ende;6764689.321923041
-2021;bilanz;999;bil_derue5_ende;6764689.321923041
-2021;bilanz; BG113;bil_derue7_ende;6764689.321923041
-2021;bilanz;999;bil_derue7_ende;6764689.321923041
-2021;bilanz; BG113;bil_bio_nachreservierung_ende;483192.0944230744
-2021;bilanz;999;bil_bio_nachreservierung_ende;483192.0944230744
-2021;bilanz; BG113;bil_zzr_nachreservierung_ende;1449576.283269223
-2021;bilanz;999;bil_zzr_nachreservierung_ende;1449576.283269223
-2021;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
-2021;bilanz;999;bil_unisex_nachreservierung_ende;0.0
-2021;guv; BG113;bil_gebuchter_beitrag;5986026.937847799
-2021;guv;999;bil_gebuchter_beitrag;5986026.937847799
-2021;guv; BG113;bil_verdienter_beitrag_nw216;5986026.937847799
-2021;guv;999;bil_verdienter_beitrag_nw216;5986026.937847799
-2021;guv; BG113;bil_derue7_veraenderung;4856841.689022915
-2021;guv;999;jahresueberschuss;5986026.937847799
-2021;bilanz;999;eigenkapital_ende;7774268.153425568
+2020;guv; AV10;bil_gebuchter_beitrag;224551.13935778508
+2020;guv; BG113;bil_gebuchter_beitrag;1227751.0180971308
+2020;guv;999;bil_gebuchter_beitrag;1452302.1574549158
+2020;guv; AV10;bil_verdienter_beitrag_nw216;224551.13935778508
+2020;guv; BG113;bil_verdienter_beitrag_nw216;1227751.0180971308
+2020;guv;999;bil_verdienter_beitrag_nw216;1452302.1574549158
+2020;guv; AV10;bil_derue7_veraenderung;253760.75156544583
+2020;guv; BG113;bil_derue7_veraenderung;1387456.8705312056
+2020;guv;999;jahresueberschuss;1452302.1574549158
+2020;bilanz;999;eigenkapital_ende;1552302.1574549158

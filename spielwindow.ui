@@ -39,7 +39,7 @@
     </rect>
    </property>
    <property name="currentIndex">
-    <number>4</number>
+    <number>0</number>
    </property>
    <widget class="QWidget" name="GuV">
     <attribute name="title">
@@ -48,11 +48,24 @@
     <widget class="QTableWidget" name="tableWidget_GuV">
      <property name="geometry">
       <rect>
-       <x>10</x>
+       <x>340</x>
        <y>30</y>
-       <width>721</width>
-       <height>192</height>
+       <width>391</width>
+       <height>211</height>
       </rect>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton_GuvWindow">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>50</y>
+       <width>131</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
      </property>
     </widget>
    </widget>
@@ -85,7 +98,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>Statistik ...</string>
+      <string/>
      </property>
     </widget>
    </widget>
@@ -999,6 +1012,19 @@
     <string>TextLabel</string>
    </property>
   </widget>
+  <widget class="QPushButton" name="pushButton_GrundeinstellungWindow">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>776</y>
+     <width>41</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
   <zorder>buttonBox</zorder>
   <zorder>tabWidget_Ergebnisse</zorder>
   <zorder>label</zorder>
@@ -1008,6 +1034,7 @@
   <zorder>line_2</zorder>
   <zorder>label_Jahr</zorder>
   <zorder>tabWidget_2</zorder>
+  <zorder>pushButton_GrundeinstellungWindow</zorder>
  </widget>
  <resources/>
  <connections>
