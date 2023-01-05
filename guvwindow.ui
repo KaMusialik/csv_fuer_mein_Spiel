@@ -26,7 +26,7 @@
     <string>weiter...</string>
    </property>
   </widget>
-  <widget class="QTableWidget" name="tableWidget_Guv">
+  <widget class="QTableWidget" name="tableWidget_GuV">
    <property name="geometry">
     <rect>
      <x>30</x>
@@ -34,6 +34,49 @@
      <width>841</width>
      <height>231</height>
     </rect>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_avbg">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>70</y>
+     <width>211</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>10</y>
+     <width>57</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <weight>75</weight>
+     <bold>true</bold>
+     <underline>true</underline>
+    </font>
+   </property>
+   <property name="text">
+    <string>Filter:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>40</y>
+     <width>211</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Bestandsgruppe:</string>
    </property>
   </widget>
  </widget>

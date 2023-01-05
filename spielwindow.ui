@@ -39,7 +39,7 @@
     </rect>
    </property>
    <property name="currentIndex">
-    <number>0</number>
+    <number>2</number>
    </property>
    <widget class="QWidget" name="GuV">
     <attribute name="title">
@@ -48,9 +48,9 @@
     <widget class="QTableWidget" name="tableWidget_GuV">
      <property name="geometry">
       <rect>
-       <x>340</x>
+       <x>200</x>
        <y>30</y>
-       <width>391</width>
+       <width>531</width>
        <height>211</height>
       </rect>
      </property>
@@ -99,6 +99,16 @@
      </property>
      <property name="text">
       <string/>
+     </property>
+    </widget>
+    <widget class="QTableWidget" name="tableWidget_StatistikCSV">
+     <property name="geometry">
+      <rect>
+       <x>275</x>
+       <y>40</y>
+       <width>441</width>
+       <height>192</height>
+      </rect>
      </property>
     </widget>
    </widget>
@@ -219,7 +229,7 @@
     </rect>
    </property>
    <property name="currentIndex">
-    <number>1</number>
+    <number>2</number>
    </property>
    <widget class="QWidget" name="tab_3">
     <attribute name="title">
