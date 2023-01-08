@@ -1,2 +1,4 @@
 GuVWindow/init: Die Datei /home/karol_laptop/MeineProjekte/MeinSpiel/csv_fuer_mein_Spiel/bilanz.csv existiert
 GuVWindow/init: Die Datei /home/karol_laptop/MeineProjekte/MeinSpiel/csv_fuer_mein_Spiel/guvwindow.ui existiert
+guvwindow/LeseBilanzCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: {'rl': 'guv', 'avbg': ' BG113 Risiko', 'jahr': '2020', 'name': 'jahresueberschuss'}
+guvwindow/LeseBilanzCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: {'rl': 'guv', 'avbg': ' BG111 Rente', 'jahr': '2020', 'name': 'jahresueberschuss'}

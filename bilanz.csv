@@ -3,41 +3,41 @@ jahr;rl;avbg;name;wert
 2019;bilanz;999;kasse_ende;100000
 2020;bilanz;999;eigenkapital_anfang;100000.0
 2020;bilanz;999;kasse_anfang;100000.0
-2020;bilanz; AV10;bil_derue1_ende;40208.79497778367
-2020;bilanz; BG113;bil_derue1_ende;191759.01407725125
-2020;bilanz;999;bil_derue1_ende;231967.80905503492
-2020;bilanz; AV10;bil_derue2_ende;40208.79497778367
-2020;bilanz; BG113;bil_derue2_ende;191759.01407725125
-2020;bilanz;999;bil_derue2_ende;231967.80905503492
-2020;bilanz; AV10;bil_derue3_ende;44229.67447556204
-2020;bilanz; BG113;bil_derue3_ende;210934.9154849764
-2020;bilanz;999;bil_derue3_ende;255164.58996053843
-2020;bilanz; AV10;bil_derue5_ende;56292.31296889714
-2020;bilanz; BG113;bil_derue5_ende;268462.61970815173
-2020;bilanz;999;bil_derue5_ende;324754.93267704884
-2020;bilanz; AV10;bil_derue7_ende;56292.31296889714
-2020;bilanz; BG113;bil_derue7_ende;268462.61970815173
-2020;bilanz;999;bil_derue7_ende;324754.93267704884
-2020;bilanz; AV10;bil_bio_nachreservierung_ende;4020.8794977783673
-2020;bilanz; BG113;bil_bio_nachreservierung_ende;19175.901407725127
-2020;bilanz;999;bil_bio_nachreservierung_ende;23196.780905503496
-2020;bilanz; AV10;bil_zzr_nachreservierung_ende;12062.6384933351
-2020;bilanz; BG113;bil_zzr_nachreservierung_ende;57527.70422317537
-2020;bilanz;999;bil_zzr_nachreservierung_ende;69590.34271651047
-2020;bilanz; AV10;bil_unisex_nachreservierung_ende;0.0
-2020;bilanz; BG113;bil_unisex_nachreservierung_ende;0.0
+2020;bilanz; BG113 Risiko;bil_derue1_ende;464279.6256438123
+2020;bilanz; BG111 Rente;bil_derue1_ende;165999.33974721082
+2020;bilanz;999;bil_derue1_ende;630278.9653910231
+2020;bilanz; BG113 Risiko;bil_derue2_ende;464279.6256438123
+2020;bilanz; BG111 Rente;bil_derue2_ende;165999.33974721082
+2020;bilanz;999;bil_derue2_ende;630278.9653910231
+2020;bilanz; BG113 Risiko;bil_derue3_ende;510707.5882081936
+2020;bilanz; BG111 Rente;bil_derue3_ende;182599.2737219319
+2020;bilanz;999;bil_derue3_ende;693306.8619301255
+2020;bilanz; BG113 Risiko;bil_derue5_ende;649991.4759013372
+2020;bilanz; BG111 Rente;bil_derue5_ende;232399.07564609518
+2020;bilanz;999;bil_derue5_ende;882390.5515474324
+2020;bilanz; BG113 Risiko;bil_derue7_ende;649991.4759013372
+2020;bilanz; BG111 Rente;bil_derue7_ende;232399.07564609518
+2020;bilanz;999;bil_derue7_ende;882390.5515474324
+2020;bilanz; BG113 Risiko;bil_bio_nachreservierung_ende;46427.96256438123
+2020;bilanz; BG111 Rente;bil_bio_nachreservierung_ende;16599.933974721083
+2020;bilanz;999;bil_bio_nachreservierung_ende;63027.896539102316
+2020;bilanz; BG113 Risiko;bil_zzr_nachreservierung_ende;139283.88769314368
+2020;bilanz; BG111 Rente;bil_zzr_nachreservierung_ende;49799.80192416325
+2020;bilanz;999;bil_zzr_nachreservierung_ende;189083.68961730693
+2020;bilanz; BG113 Risiko;bil_unisex_nachreservierung_ende;0.0
+2020;bilanz; BG111 Rente;bil_unisex_nachreservierung_ende;0.0
 2020;bilanz;999;bil_unisex_nachreservierung_ende;0.0
-2020;guv; AV10;bil_gebuchter_beitrag;49812.67960577758
-2020;guv; BG113;bil_gebuchter_beitrag;237560.7211066046
-2020;guv;999;bil_gebuchter_beitrag;287373.40071238216
-2020;guv; AV10;bil_verdienter_beitrag_nw216;49812.67960577758
-2020;guv; BG113;bil_verdienter_beitrag_nw216;237560.7211066046
-2020;guv;999;bil_verdienter_beitrag_nw216;287373.40071238216
-2020;guv; BG113;ap;261316.79321726505
-2020;guv; AV10;ap;22415.70582259991
-2020;guv;999;ap;283732.499039865
-2020;guv; AV10;bil_derue7_veraenderung;56292.31296889714
-2020;guv; BG113;bil_derue7_veraenderung;268462.61970815173
-2020;guv;999;bil_derue7_veraenderung;324754.93267704884
-2020;guv;999;jahresueberschuss;-321114.03100453166
-2020;bilanz;999;eigenkapital_ende;-221114.03100453166
+2020;guv; BG113 Risiko;bil_gebuchter_beitrag;2875864.8763863496
+2020;guv; BG111 Rente;bil_gebuchter_beitrag;189101.92149642966
+2020;guv;999;bil_gebuchter_beitrag;3064966.797882779
+2020;guv; BG113 Risiko;bil_verdienter_beitrag_nw216;2875864.8763863496
+2020;guv; BG111 Rente;bil_verdienter_beitrag_nw216;189101.92149642966
+2020;guv;999;bil_verdienter_beitrag_nw216;3064966.797882779
+2020;guv; BG113 Risiko;ap;3163451.3640249847
+2020;guv; BG111 Rente;ap;85095.86467339334
+2020;guv;999;ap;3248547.228698378
+2020;guv; BG113 Risiko;bil_derue7_veraenderung;649991.4759013372
+2020;guv; BG111 Rente;bil_derue7_veraenderung;232399.07564609518
+2020;guv;999;bil_derue7_veraenderung;882390.5515474324
+2020;guv;999;jahresueberschuss;-1065970.9823630312
+2020;bilanz;999;eigenkapital_ende;-965970.9823630312
