@@ -59,6 +59,29 @@
     </rect>
    </property>
   </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>10</y>
+     <width>111</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Produktgruppe:</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_Produktgruppe">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>40</y>
+     <width>211</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
